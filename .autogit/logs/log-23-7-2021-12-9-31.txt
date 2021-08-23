@@ -1,0 +1,22 @@
+-------------------- Auto-Git Log --------------------
+		Mon Aug 23 2021 12:09:31 GMT-0700 (Pacific Daylight Time)
+------------------------------------------------------
+
+Modified files:
+* .github/ISSUE_TEMPLATE/bug_report.md
+* .github/ISSUE_TEMPLATE/custom.md
+* .github/ISSUE_TEMPLATE/feature_request.md
+* .gitignore
+
+
+Created files:
+* .autogit/autogit.json
+* .vscode/c_cpp_properties.json
+* .vscode/launch.json
+* .vscode/settings.json
+
+
+Deleted files:
+
+
+Renamed files:
